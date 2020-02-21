@@ -4,3 +4,9 @@
 
 
 Repository containing digital assets for the mentored sprints for diverse beginners. All the content here is licensed through the [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) license.
+
+## Contents
+
+- **social**: contains assets for social media platforms (i.e. Twitter banner)
+- **Logos**: main logos for the mentored sprints (i.e. snakl, text-based logo)
+- **swag**: stickers designs and the such 
