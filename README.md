@@ -7,6 +7,6 @@ Repository containing digital assets for the mentored sprints for diverse beginn
 
 ## Contents
 
-- **social**: contains assets for social media platforms (i.e. Twitter banner)
-- **Logos**: main logos for the mentored sprints (i.e. snakl, text-based logo)
+- **social**: contains assets for social media platforms (i.e. Twitter banner) 
+- **ogos**: main logos for the mentored sprints (i.e. snakl, text-based logo)
 - **swag**: stickers designs and the such 
