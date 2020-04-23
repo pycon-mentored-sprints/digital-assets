@@ -15,9 +15,8 @@ Repository containing digital assets for the mentored sprints for diverse beginn
 | Classic rose | ![#fbddec](https://placehold.it/15/fbddec/000000?text=%20) `#fbddec` |
 | Gallery      | ![#EFEFEF](https://placehold.it/15/EFEFEF/000000?text=%20) `#EFEFEF` |
 
-
 ## Contents
 
-- **social**: contains assets for social media platforms (i.e. Twitter banner) 
+- **social**: contains assets for social media platforms (i.e. Twitter banner)
 - **logos**: main logos for the mentored sprints (i.e. snakl, text-based logo)
 - **swag**: stickers designs and the such
