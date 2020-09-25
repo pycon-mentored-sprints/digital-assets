@@ -8,15 +8,18 @@ Repository containing digital assets for the mentored sprints for diverse beginn
 
 ## Colour palette
 
-| USAGE        | COLOUR HEX CODE                                                      |
-| ------------ | -------------------------------------------------------------------- |
-| Haiti        | ![#181036](https://placehold.it/15/181036/000000?text=%20) `#181036` |
-| Deep blush   | ![#e7579a](https://placehold.it/15/e7579a/000000?text=%20) `#e7579a` |
-| Classic rose | ![#fbddec](https://placehold.it/15/fbddec/000000?text=%20) `#fbddec` |
-| Gallery      | ![#EFEFEF](https://placehold.it/15/EFEFEF/000000?text=%20) `#EFEFEF` |
+| USAGE            | COLOUR HEX CODE                                                      |
+| ---------------- | -------------------------------------------------------------------- |
+| St Patricks Blue | ![#283069](https://placehold.it/15/283069/000000?text=%20) `#283069` |
+| Magenta Crayola  | ![#E7579A](https://placehold.it/15/E7579A/000000?text=%20) `#E7579A` |
+| Charm pink       | ![#F08CAE](https://placehold.it/15/F08CAE/000000?text=%20) `#F08CAE` |
+| Classic rose     | ![#FBDDEC](https://placehold.it/15/FBDDEC/000000?text=%20) `#FBDDEC` |
+| Cultured         | ![#EFEFEF](https://placehold.it/15/EFEFEF/000000?text=%20) `#EFEFEF` |
+
+See [https://coolors.co/283069-e7579a-f08cae-fbddec-efefef](https://coolors.co/283069-e7579a-f08cae-fbddec-efefef).
 
 ## Contents
 
-- **social**: contains assets for social media platforms (i.e. Twitter banner)
-- **logos**: main logos for the mentored sprints (i.e. snakl, text-based logo)
-- **swag**: stickers designs and the such
+- **[social](./social)**: contains assets for social media platforms (i.e. Twitter banner)
+- **[logos](./logos)**: main logos for the mentored sprints. Each variant can be found in both, svg and png format.
+- **[swag](./swag)**: swag ready designs
