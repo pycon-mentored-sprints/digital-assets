@@ -10,23 +10,32 @@
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg?colorA=2D2A56&colorB=FF6F91&style=flat.svg)](https://creativecommons.org/licenses/by/4.0/)
 
-Repository containing digital assets for the mentored sprints for diverse beginners. All the content here is licensed through the [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) license.
+This repository contains the Mentored Sprints digital assets. The contents of this repository are licensed under the OSI license [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 
 The Mentored Sprints brand guidelines can be found at [https://mentored-sprints.dev/brand](https://mentored-sprints.dev/brand). Make sure to read this carefully before making any derivative work or reusing content for your sprints.
 
-:warning: Please note that the organisation logo was made for the mentored sprints by Ashley McNamara and features the Azure advocate Bit. Its use is reserved for the advocacy team at MSFT.
+:warning: Please note that the organisation logo was made for the mentored sprints by Ashley McNamara and features the Azure advocate Bit. Its use is reserved for the advocacy team at MSFT and the Mentored Sprints team.
 
-## Colour palette
+## Mentored Sprints Official Colour Palette
 
-| USAGE            | COLOUR HEX CODE                                                      |
+### Main Colours
+
+| NAME            | COLOUR HEX CODE                                                      |
 | ---------------- | -------------------------------------------------------------------- |
-| St Patricks Blue | ![#283069](https://placehold.it/15/283069/000000?text=%20) `#283069` |
-| Magenta Crayola  | ![#E7579A](https://placehold.it/15/E7579A/000000?text=%20) `#E7579A` |
-| Charm pink       | ![#F08CAE](https://placehold.it/15/F08CAE/000000?text=%20) `#F08CAE` |
-| Classic rose     | ![#FBDDEC](https://placehold.it/15/FBDDEC/000000?text=%20) `#FBDDEC` |
-| Cultured         | ![#EFEFEF](https://placehold.it/15/EFEFEF/000000?text=%20) `#EFEFEF` |
+| Blue Purple | ![#5936d9](https://placehold.it/15/5936d9/000000?text=%20) `#5936d9` |
+| Lavender Rose  | ![#f2a2e5](https://placehold.it/15/f2a2e5/000000?text=%20) `#f2a2e5` |
 
-See [https://coolors.co/283069-e7579a-f08cae-fbddec-efefef](https://coolors.co/283069-e7579a-f08cae-fbddec-efefef).
+
+### Secondary Colours
+
+
+| NAME            | COLOUR HEX CODE                                                      |
+| ---------------- | -------------------------------------------------------------------- |
+| Blue Gem    | ![#3632a6](https://placehold.it/15/3632a6/000000?text=%20) `#3632a6` |
+| Medium Turquoise  | ![#36d9c8](https://placehold.it/15/36d9c8/000000?text=%20) `#36d9c8` |
+| Heliotrope | ![#d089ff](https://placehold.it/15/d089ff/000000?text=%20) `#d089ff` |
+| Mauve  | ![#d1bafb](https://placehold.it/15/d1bafb/000000?text=%20) `#d1bafb` |
+| Pink Lace  | ![#f6dfff](https://placehold.it/15/f6dfff/000000?text=%20) `#f6dfff` |
 
 ## Contents
 
