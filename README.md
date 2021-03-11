@@ -1,5 +1,5 @@
 <div align="center">
- <img alt="Logo" src="https://raw.githubusercontent.com/pycon-mentored-sprints/digital-assets/7d2151142c84196d498a850b219a18066c19afb7/logos/white-pink-text-blue_1.svg" width="250" />
+ <img alt="Logo" src="./logos/svg/MS_logo_white.svg" width="300" />
 </div>
 <br>
 
@@ -25,9 +25,7 @@ The Mentored Sprints brand guidelines can be found at [https://mentored-sprints.
 | Blue Purple | ![#5936d9](https://placehold.it/15/5936d9/000000?text=%20) `#5936d9` |
 | Lavender Rose  | ![#f2a2e5](https://placehold.it/15/f2a2e5/000000?text=%20) `#f2a2e5` |
 
-
 ### Secondary Colours
-
 
 | NAME            | COLOUR HEX CODE                                                      |
 | ---------------- | -------------------------------------------------------------------- |
@@ -39,6 +37,5 @@ The Mentored Sprints brand guidelines can be found at [https://mentored-sprints.
 
 ## Contents
 
-- **[social](./social)**: contains assets for social media platforms (i.e. Twitter banner)
 - **[logos](./logos)**: main logos for the mentored sprints. Each variant can be found in both, svg and png format.
-- **[swag](./swag)**: swag ready designs
+- **[old_assets](./old_assets)**: our old branding logos and marks
