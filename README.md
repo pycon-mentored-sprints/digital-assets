@@ -38,4 +38,5 @@ The Mentored Sprints brand guidelines can be found at [https://mentored-sprints.
 ## Contents
 
 - **[logos](./logos)**: main logos for the mentored sprints. Each variant can be found in both, svg and png format.
+- **[swag](./logos/swag)**: swag ready assets
 - **[old_assets](./old_assets)**: our old branding logos and marks
